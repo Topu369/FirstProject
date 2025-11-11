@@ -31,7 +31,7 @@ void DFS(int graph[9][9], int totalNodes, int startNode)
 
     cout << endl;
 }
-
+//Main function
 int main()
 {
     const int totalNodes = 9;
